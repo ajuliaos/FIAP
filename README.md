@@ -6,4 +6,4 @@ Linguagem em C++ com o propósito de calcular a velocidade instântanea de um ob
 
 Realizado em dupla, no primeiro período para disciplina Energia, Cinemática, Força e Ondas.
 
-[Visualizar](https://github.com/ajuliaos/FIAP/blob/6835451eb13e288b08432c74fdcfc1ea4e1e215a/Projeto_Velocidade_Cp3.ino)
+[Visualizar](https://github.com/ajuliaos/FIAP/blob/main/Projeto_Velocidade_Cp3.ino)
